@@ -15,5 +15,6 @@ Structure
 
 
 PSO.ipynb: Notebook with PSO implementation and execution.
+
 softpy: a Python library for soft computing (@AndreaCampagner)
 
